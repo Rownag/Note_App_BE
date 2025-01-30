@@ -6,7 +6,7 @@ A database is a structured collection of data that can be accessed, managed, and
 - Non-relational Database (NOSQL DB): This is a kind of database that stores data in JSON like documents e.g
 ```javascript
 {
-  "name": "John",
+  "name": "Rownag",
   "role": "admin",
   "skills": ["JS", "React"]
 }
